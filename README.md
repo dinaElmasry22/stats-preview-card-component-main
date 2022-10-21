@@ -1,7 +1,6 @@
 # Frontend Mentor - Stats preview card component
 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
-
+![image](https://user-images.githubusercontent.com/113911084/197236150-4f278d46-8727-41c1-aa58-5cfaa24694e9.png)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
